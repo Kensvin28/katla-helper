@@ -1,0 +1,26 @@
+{
+  "name": "katla-helper",
+  "version": "1.0.0",
+  "description": "Hints to solve Katla, an Indonesian Wordle",
+  "keywords": [
+    "Wordle",
+    "Katla",
+    "Hints"
+  ],
+  "license": "ISC",
+  "author": "Kensvin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "eslint": "^9.32.0",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0"
+  }
+}
